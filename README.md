@@ -1,5 +1,3 @@
-$ neofetch
-
                .---. 
               /  .  \
              |  / \  |    sqlj3d1@pwnbox
