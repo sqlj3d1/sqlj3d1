@@ -1,10 +1,3 @@
-# 
-![sqlj3d1 banner](assets/hacker_banner.svg)
-
-```
-$ whoami
-> wannabe hacker.
-
 $ neofetch
 
                .---. 
@@ -20,7 +13,3 @@ $ neofetch
                    Certification: Security+ (in progress), CWES (in progress)
                     Disclosure: Always with permission
                          Motto: I love breaking stuff
-
-$ exit
-> connection closed, come back soon!
-```
