@@ -1,24 +1,6 @@
 # 
-
-<div align="center" style="margin-top:20px;">
-  <div style="display:inline-block;padding:20px 26px;border-radius:18px;background:radial-gradient(circle at top,#0b1f1a 0%,#010807 60%,#000 100%);border:1px solid rgba(0,255,123,0.25);box-shadow:0 18px 40px rgba(0,255,123,0.12);">
-    <pre style="margin:0;font-family:'Fira Code','Cascadia Code',Consolas,monospace;font-size:13.5px;line-height:1.35;color:#9affd6;white-space:pre;">
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║    ███████╗ ██████╗ ██╗         ██╗██████╗ ██████╗  ██╗         ║
-║    ██╔════╝██╔═══██╗██║         ██║╚════██╗██╔══██╗███║         ║
-║    ███████╗██║   ██║██║         ██║ █████╔╝██║  ██║╚██║         ║
-║    ╚════██║██║▄▄ ██║██║    ██   ██║ ╚═══██╗██║  ██║ ██║         ║
-║    ███████║╚██████╔╝███████╗╚█████╔╝██████╔╝██████╔╝ ██║         ║
-║    ╚══════╝ ╚══▀▀═╝ ╚══════╝ ╚════╝ ╚═════╝ ╚═════╝  ╚═╝         ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-    </pre>
-  </div>
-</div>
-
-<div style="max-width:900px;margin:36px auto;padding:32px;border-radius:22px;background:linear-gradient(135deg,#030f11 0%,#061a14 55%,#020806 100%);border:1px solid rgba(0,255,140,0.25);box-shadow:0 22px 45px rgba(0,255,140,0.1);font-family:'Fira Code','Cascadia Code',Consolas,monospace;color:#c0ffe4;">
-  <pre style="margin:0;font-size:14px;line-height:1.55;background:rgba(0,0,0,0.25);border-radius:16px;padding:24px;border:1px solid rgba(0,255,140,0.18);white-space:pre-wrap;overflow:auto;">
+<div style="max-width:900px;margin:36px auto;padding:36px;border-radius:22px;background:radial-gradient(circle at 20% 20%,rgba(0,255,170,0.15) 0%,rgba(0,0,0,0.95) 55%,#000 100%);border:1px solid rgba(0,255,140,0.45);box-shadow:0 25px 65px rgba(0,255,140,0.18);font-family:'Fira Code','Cascadia Code',Consolas,monospace;color:#64ffda;text-shadow:0 0 8px rgba(100,255,218,0.35);">
+  <pre style="margin:0;font-size:14px;line-height:1.6;background:linear-gradient(145deg,rgba(0,0,0,0.85) 0%,rgba(0,40,24,0.95) 50%,rgba(0,0,0,0.92) 100%);border-radius:16px;padding:26px;border:1px solid rgba(0,255,140,0.35);box-shadow:inset 0 0 22px rgba(0,255,140,0.2);white-space:pre-wrap;overflow:auto;color:#9efff3;text-shadow:0 0 6px rgba(0,255,180,0.25);">
 $ whoami
 > wannabe hacker.
 
@@ -41,12 +23,4 @@ $ neofetch
 $ exit
 > connection closed, come back soon!
   </pre>
-</div>
-
-<hr style="width:60%;margin:34px auto;border:0;height:1px;background:linear-gradient(90deg,rgba(0,0,0,0),rgba(0,255,140,0.55),rgba(0,0,0,0));"/>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=sqlj3d1+%7C+SQL+Injection+Jedi;Penetration+tester+%7C+Bug+hunter;Breaking+databases+to+make+them+secure;1'+OR+'1'%3D'1';--+Always+learning%2C+always+hacking)
-
 </div>
